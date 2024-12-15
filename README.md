@@ -7,3 +7,5 @@ This docker image pulls an ubuntu server, and builds a vs-code server on top of 
 
 ### Purpose 
 This is specifically built for spining up a coding env, with Python, Go and C++ installed to get started with competitive programming. 
+
+![Development Docker Image Screenshot](./Images/DevEnv.png)
